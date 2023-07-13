@@ -1,1 +1,1 @@
-# Blog-Website
+It is a responsive #Blog-Website.
